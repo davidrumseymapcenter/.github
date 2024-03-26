@@ -1,6 +1,6 @@
 # Welcome to the David Rumsey Map Center's GitHub Organization! 
 
-![David Rumsey Map Center](sul_drmc_banner.png)
+![David Rumsey Map Center](https://github.com/davidrumseymapcenter/.github/blob/main/profile/sul_drmc_banner.png?raw=true)
 
 Welcome to the official GitHub profile of the David Rumsey Map Center. We're dedicated to making Stanford Library's historical cartographic collections discoverable, useful, and meaningful.
 
